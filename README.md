@@ -1,2 +1,2 @@
-# teensyboard
+# TeensyBoard
 A USB to ADB converter for the Teensy microcontroller
